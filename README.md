@@ -1,6 +1,6 @@
 # moex.data - загрузка рыночных данных MOEX
 
-![image](https://github.com/)
+![image](https://github.com/arsvincere/moex.data/blob/master/res/Screenshot_2024-04-22_13-42-22.png)
 
 GUI утилита для загрузки исторических рыночных данных Московской биржи. Доступны таймфреймы: 1М, 10М, 1H, D, М, М.
 
