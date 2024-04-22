@@ -1,4 +1,4 @@
-# avin.data - загрузка рыночных данных MOEX
+# moex.data - загрузка рыночных данных MOEX
 
 ![image](https://github.com/)
 
