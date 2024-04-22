@@ -6,7 +6,7 @@ GUI утилита для загрузки исторических рыночн
 
 ## Зависимости
 
-[PyQt6](https://github.com/neovim/neovim/wiki/Installing-Neovim) - набор расширений графического фреймворка Qt для языка программирования Python:
+[PyQt6](https://pypi.org/project/PyQt6/) - набор расширений графического фреймворка Qt для языка программирования Python:
 
     pip install pyqt6
 	
